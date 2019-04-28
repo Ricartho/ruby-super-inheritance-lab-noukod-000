@@ -1,1 +1,6 @@
-class Chatty_
+class Chatty_student
+  
+  def hello 
+    
+  end 
+end 
